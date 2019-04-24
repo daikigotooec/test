@@ -1,3 +1,4 @@
 paper
 stone
 bring
+alive
